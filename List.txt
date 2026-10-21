@@ -3,3 +3,4 @@ Content #2 (branch: add-list)
 Content #3 (post-merge)
 
 Content of branch-1
+Also Content of branch-1
