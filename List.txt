@@ -4,3 +4,4 @@ Content #3 (post-merge)
 
 Content of branch-1
 Also Content of branch-1
+Content of branch-2
